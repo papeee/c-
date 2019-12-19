@@ -1,6 +1,5 @@
 // mcpath.cpp : Defines the exported functions for the DLL application.
-//
-//https://stackoverflow.com/questions/15482819/call-dll-in-a-c-file?noredirect=1&lq=1
+
 #include "stdafx.h"
 #include <iostream>
 #include <windows.system.h>
